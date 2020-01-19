@@ -1,0 +1,13 @@
+body {
+  height: 300px;
+  width: 300px;
+  outline: none;
+}
+
+form {
+  opacity: 0; 
+}
+
+form.reveal {
+  opacity: 1 !important;
+}
