@@ -1,11 +1,12 @@
 # reMorse
 A project built for HacknRoll 2020.
 Dev Post here: https://devpost.com/software/remorse-4vt86j
-Bulit by [@jxofficial] [jx], [@IronBiscuit][yy],[@AxelLau][axel] and [@BlackOnyx][st].
-[axel]: https://github.com/AxelLau
-[jx]: https://github.com/jxofficial
-[st]: https://github.com/blackonyyx
-[yy]: https://github.com/IronBiscuit
+Built by: 
+- [@jxofficial](https://github.com/jxofficial)
+- [@IronBiscuit](https://github.com/IronBiscuit)
+- [@AxelLau](https://github.com/AxelLau)
+- [@BlackOnyx](https://github.com/blackonyyx)
+
 
 # A Chrome Extension that you just cant get out of!
 ## How we built it:
